@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 cv-corpus-20.0-delta-2024-12-06/
+=======
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+>>>>>>> 8684de0 (Added face detection/ recognition code)
