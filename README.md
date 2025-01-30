@@ -1,0 +1,1 @@
+A collection of machine learning projects and labs focused on speech recognition, face detection, and other AI applications.
